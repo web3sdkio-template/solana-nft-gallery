@@ -12,8 +12,8 @@
     "@solana/wallet-adapter-react": "^0.15.20",
     "@solana/wallet-adapter-react-ui": "^0.9.18",
     "@solana/wallet-adapter-wallets": "^0.19.1",
-    "@web3sdkio/react": "^3",
-    "@web3sdkio/sdk": "^3",
+    "@web3sdkio/react": "^2.0.1",
+    "@web3sdkio/sdk": "^1.0.12",
     "next": "^12.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

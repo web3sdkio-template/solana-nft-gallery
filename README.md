@@ -1,6 +1,6 @@
 # Solana NFT Gallery
 
-Create a web application that showcases all of the NFTs that have been minted into an [NFT Collection Program](https://portal.web3sdk.io/pre-built-contracts/solana/nft-collection) on the Solana network!
+Create a web application that showcases all of the NFTs that have been minted into an [NFT Collection Program](https://docs.web3sdk.io/pre-built-contracts/solana/nft-collection) on the Solana network!
 
 ## Getting Started
 
@@ -52,7 +52,7 @@ On the UI, we iterate over the `nfts` array and transform each NFT into a `Card`
 }
 ```
 
-The `Card` component is a simple component that renders the NFT metadata and owner, making use of the [Web3sdkioNftMedia](https://portal.web3sdk.io/ui-components/nft-renderer) UI component to display all kinds of NFTs:
+The `Card` component is a simple component that renders the NFT metadata and owner, making use of the [Web3sdkioNftMedia](https://docs.web3sdk.io/ui-components/nft-renderer) UI component to display all kinds of NFTs:
 
 ```jsx
 const Card: FC<Props> = ({ nft }) => {
@@ -114,4 +114,4 @@ You can check out [the web3sdkio GitHub organization](https://github.com/web3sdk
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).
